@@ -2,6 +2,8 @@
 <ModMetaData>
 	<name>RoofBomb</name>
 	<author>Skullywag</author>
-	<targetVersion>1.0.2059</targetVersion>
+	<supportedVesrions>
+		<li>1.0.2059</li>
+	</supportedVesrions>
 	<description>Adds an explosive device capable of removing roofs.</description>
 </ModMetaData>
