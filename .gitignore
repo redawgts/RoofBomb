@@ -1,3 +1,5 @@
 /.vs
 *bin
 *obj
+Source/.idea
+Source/.vs
