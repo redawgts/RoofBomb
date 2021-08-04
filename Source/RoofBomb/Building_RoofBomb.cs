@@ -28,7 +28,7 @@ namespace RoofBomb
             var map = Map; // before Destroy()!
 
             base.Destroy(mode);
-            MoteMaker.ThrowMicroSparks(DrawPos, map);
+            MoteMaker.ThrowExplosionInteriorMote(DrawPos, Map, ThingDef.Named("Spark"));
 
             if (mode != DestroyMode.KillFinalize)
             {
